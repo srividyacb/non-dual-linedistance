@@ -1,0 +1,25 @@
+{
+  "name": "non-dual-linedistance",
+  "version": "1.0.0",
+  "description": "Calculates distance of dual carriage highways as single",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srividyacb/non-dual-linedistance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srividyacb/non-dual-linedistance/issues"
+  },
+  "homepage": "https://github.com/srividyacb/non-dual-linedistance#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "tile-reduce": "^3.1.1",
+    "turf": "^3.0.14",
+    "underscore": "^1.8.3"
+  }
+}
